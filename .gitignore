@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Assessment Prep Documents
+assessment_prep.md
+assessment_prep.pdf
+
